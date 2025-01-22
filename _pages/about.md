@@ -24,4 +24,14 @@ You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum
 # Education
 - 09/2022 ~ Present(Expected in July 2026): [Department of Electronics Science and Technology](https://en.sist.ustc.edu.cn/2011/0520/c4923a44383/page.psp){:target="_blank"}, [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"){:target="_blank"} 
     - B.Sc. in *Electronics Science & Technology* 
-- 09/2019 ~ 06/2022: Huoqiu No. 1 High School 
+- 09/2019 ~ 06/2022: Huoqiu No. 1 High School
+
+# Honors and Awards
+
+- 01/2025: USTC Sunshine Scholarship(1/49) 
+- 12/2023: USTC Fellowship Undergraduate A-Class Funding (Top 5%) 
+- 12/2023: USTC Sunshine Scholarship (1/45) 
+- 11/2023: Robogame Competition at USTC,2nd Prize (2/39) 
+- 06/2023: Scholarships for Electrical Engineering Program of Excellence (for talented students)
+- 03/2023: USTC 2022 "Star of Inspiration" Honorary Title (1/45)
+- 09/2022: "Outstanding Campus Journalist" Honorary Title (Top 1.5%)
