@@ -80,7 +80,7 @@ You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/me-6.jpg" 
+        src = "../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
         width = "30%">
     <p> </p>
 </center>
