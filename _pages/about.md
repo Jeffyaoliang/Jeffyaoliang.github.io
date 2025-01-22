@@ -1,6 +1,6 @@
 # layout: archive # too wide
 permalink: /
-title: "Welcome to Yue Wu’s homepage!"
+title: "Welcome to Yaoliang Bian’s homepage!"
 author_profile: true
 redirect_from: 
   - /about/
