@@ -4,7 +4,7 @@ title: "Welcome to Yaoliang Bian’s homepage!"
 author_profile: true
 redirect_from: 
   - /about/
-  - /en_us/
+  - /about.html
 ---
 
 <!-- 主页上只展示客观成果，主观的东西和需要展开讲的东西放到其他页面 -->
