@@ -22,10 +22,10 @@ repository               : "Jeffyaoliang/Jeffyaoliang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yaoliang Bian"
+  name             : "Yaoliang Bian（卞耀亮）"
   pronouns         : # example: "she/her"  
   bio              : "I am Yaoliang Bian, a junior undergraduate majoring in Electrical Engineering and I am looking for 2025 summer research opportunity."
-  location         : "Hefei, Anhui"
+  location         : "Hefei, Anhui, China"
   employer         : "University of Science and Technology of China"
   uri              : # URL
   email            : "bianyaoliang@mail.ustc.edu.cn" 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Yaoliang Bian"
+  linkedin         : "yaoliang-bian-5963852b4"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
