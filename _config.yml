@@ -36,9 +36,10 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  linkedin         : "https://www.linkedin.com/in/yaoliang-bian-5963852b4/"         
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
