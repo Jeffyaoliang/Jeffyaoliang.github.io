@@ -39,36 +39,6 @@ Existing backscatter technologies have limited compatibility with commercial wir
 
 However, currently, DanBlue only supports a single carrier source. We are trying to explore how to multiplex multiple carrier sources, especially when these carriers have different hopping sequences. Moreover, the distance from the carrier to the tag is related to the tag's sensitivity. We would like to increase the downlink distance by improving the tag's sensitivity or using low-noise amplifiers. To enable the tag to utilize ambient BLE signals, DanBlue introduces additional edge devices and a wide clock, which increases costs. We are working on reducing it by integrating it into existing devices. Last but not least, the current system design is primarily intended for backscatter beacons. In the future, application protocols based on wide data channels, such as BLE pairing, need to be developed to further enhance the system's functionality and security.
 
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/undergraduate-research-program/cpt_13.png" 
-        width = "46.5%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/undergraduate-research-program/energy.png" 
-        width = "50%">
-    <br />
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        left: tearing mode structure; right: kinetic energy
-    </div>
-    <p> </p>
-</center>
-
-We virtually discussed this research with [Prof. Chi-Wang SHU](https://www.dam.brown.edu/people/shu/ "Prof. Chi-Wang SHU' homepage"){:target="_blank"}. Thanks for his discussion and advice. 
-
-Research report (in Chinese) preview: [here](../files/undergraduate-research-program/main.pdf){:target="_blank"}; Defense PPT (in Chinese) preview: [here](../files/undergraduate-research-program/PPT.pdf){:target="_blank"}. 
-
-*[MHD]: Magnetohydrodynamics 
-
-
 ## 2. Positivity-Preserving Conservative Low-Rank Methods for Vlasov Dynamics 
 
 Supervisor: [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/ "Prof. Xiangxiong ZHANG's homepage"){:target="_blank"} 
