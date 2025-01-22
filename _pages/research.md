@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-title: "Yue Wu's Research Page"
+title: "Yaoliang Bian's Research Page"
 permalink: /research/
 author_profile: true
 ---
@@ -11,35 +11,33 @@ author_profile: true
 
 # Research Interests 
 
-1. High-order numerical methods for PDEs: 
-   - Finite element methods 
-   - Discontinuous Galerkin methods 
-   - Spectral methods 
-   - Finite difference / volume methods 
-2. Scientific computing: 
-   - Parallel numerical solvers 
-   - Iterative methods 
+1. Wireless Communication & Mobile Computing: 
+   - Bluetooth Backscatter
+   - On-device AI
+  
+2. Digital Circuit Design: 
+   - AI accelerator 
+
+3. Embodied Intelligence:
+   - 3D scene understanding
+   - Robotics Simulation
 
 ---
 
 
 # Research Experiences 
 
-## 1. Numerical Simulation of Plasma Equilibrium Evolution in Nuclear Fusion 
+## 1. Harnessing Multi-Frequency Carriers for Commodity Bluetooth Backscatter 
 
 *Undergraduate Research Program at USTC* 
 
-Supervisor: [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860 "Prof. Mengping ZHANG's homepage"){:target="_blank"} 
+Supervisor: [Prof. Wei Gong](https://ubiot.ustc.edu.cn/weigong "Prof. Mengping ZHANG's homepage"){:target="_blank"} 
 
-07/2021 ~ 05/2022, USTC 
+09/2024 ~ Present, USTC  
 
-Defense: 12/30/2022 
+Existing backscatter technologies have limited compatibility with commercial wireless systems (such as WiFi and Bluetooth), particularly when dealing with multi-frequency carriers, where issues such as low utilization, uncertain latency, and connectivity limitations arise. DanBlue addressed these issues by introducing edge agents and a broadband channel hopping mechanism.
 
-The controlled nuclear fusion is one of the most prospective solution to the energy crisis and environmental problems. The tokamak has been widely investigated as the most feasible magnetically confined fusion device. Tearing mode instabilities have great influence on the fusion reaction thus worth studying. 
-
-In this research, in order to simulate the evolution process of tokamak plasma instability numerically, we reviewed different formulations of the MHD equations, selected a suitable type of non-conservative resistive MHD, and developed a parallel solver using hybrid finite difference-Fourier pseudo spectral method in cylindrical coordinates. Using our solver, we simulated the (m,n)=(2,1) resistive tearing mode instability, and checked the results against those obtained from the CLT and M3D-C1 code with researchers from Institute of Plasma Physics, Chinese Academy of Science. Our solver exhibits satisfactory performance in conserving numerical divergence of the magnetic field, fitting the theoretical relation between logarithmic growth rate of kinetic energy and resistivity, revealing the tearing mode structure independent of initial perturbation at the linear stage, and reaching the final saturation stage. 
-
-Below is a plot of the perturbation on the toroidal component of the electric field at time T=7000, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logarithmic growth rate very well. 
+However, currently, DanBlue only supports a single carrier source. We are trying to explore how to multiplex multiple carrier sources, especially when these carriers have different hopping sequences. Moreover, the distance from the carrier to the tag is related to the tag's sensitivity. We would like to increase the downlink distance by improving the tag's sensitivity or using low-noise amplifiers. To enable the tag to utilize ambient BLE signals, DanBlue introduces additional edge devices and a wide clock, which increases costs. We are working on reducing it by integrating it into existing devices. Last but not least, the current system design is primarily intended for backscatter beacons. In the future, application protocols based on wide data channels, such as BLE pairing, need to be developed to further enhance the system's functionality and security.
 
 <center>
     <img style = "
