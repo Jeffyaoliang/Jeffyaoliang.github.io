@@ -35,3 +35,15 @@ You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum
 - 06/2023: Scholarships for Electrical Engineering Program of Excellence (for talented students)
 - 03/2023: USTC 2022 "Star of Inspiration" Honorary Title (1/45)
 - 09/2022: "Outstanding Campus Journalist" Honorary Title (Top 1.5%)
+
+# Skills
+
+- Programming: C/C++, Matlab, Java, R, Verilog, Python, LaTeX
+- Hardware: nRF52840 SoC, TI CC2640R2F, TI CC3200, FPGA, STM32F103, Raspberry Pi, ATmega8A
+- Software: Mathematica, MATLAB, Altium Designer, Microsoft Excel, Origin, Wireshark, Vivado, STM32CubeMX, SmartRF Studio 7
+- Languages: Fluent (Mandarin) Chinese, Proficient English 
+
+
+<!-- Explanation for abbreviations -->
+
+*[USTC]: University of Science and Technology of China 
