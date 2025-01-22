@@ -51,36 +51,18 @@ You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum
 # Gallery
 
 <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/picture/2023.8.10 Oriel college at Oxford(Professor Yakov Kremnitzer，Yaoliang Bian).jpg" 
-        width = "30%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/picture/2024.07.01 Trinity College in the University of Toronto(Hongru Bao, Yidong Jiang, Yiyang zhao, Yaoliang Bian).jpg" 
-        width = "30%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/picture/2023.8.6.King's College, Cambridge(Lujia Yang, Weiyi Xu, Xiaoqi Wu, Jingjing Niu, Yaoliang Bian).jpg" 
-        width = "30%">
-    <br />
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/picture/2023.8.11. Oriel college at Oxford(Professor Bernardo, Yaoliang Bian).jpg" 
-        width = "30%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/picture/2024.2.6UT Texas Union New Year Party Yaoliang Bian，Mao Ye.jpg" 
-        width = "30%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
-        width = "30%">
-    <p> </p>
+    <img style="height: 200px; width: auto; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+     src="../files/picture/2023.8.10 Oriel college at Oxford(Professor Yakov Kremnitzer，Yaoliang Bian).jpg">
+<img style="height: 200px; width: auto; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+     src="../files/picture/2024.07.01 Trinity College in the University of Toronto(Hongru Bao, Yidong Jiang, Yiyang zhao, Yaoliang Bian).jpg">
+<img style="height: 200px; width: auto; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+     src="../files/picture/2023.8.6.King's College, Cambridge(Lujia Yang, Weiyi Xu, Xiaoqi Wu, Jingjing Niu, Yaoliang Bian).jpg">
+<br />
+<img style="height: 200px; width: auto; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+     src="../files/picture/2023.8.11. Oriel college at Oxford(Professor Bernardo, Yaoliang Bian).jpg">
+<img style="height: 200px; width: auto; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+     src="../files/picture/2024.2.6UT Texas Union New Year Party Yaoliang Bian，Mao Ye.jpg">
+<img style="height: 200px; width: auto; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+     src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg">
+
 </center>
