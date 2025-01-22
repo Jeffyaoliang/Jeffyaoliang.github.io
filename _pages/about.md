@@ -59,7 +59,7 @@ You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/me-2.jpg" 
+        src = "../files/picture/2024.07.01 Trinity College in the University of Toronto(Hongru Bao, Yidong Jiang, Yiyang zhao, Yaoliang Bian).jpg" 
         width = "30%">
     <img style = "
         border-radius: 0.3125em;
