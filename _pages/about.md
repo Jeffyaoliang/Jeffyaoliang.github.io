@@ -1,12 +1,16 @@
----
+# layout: archive # too wide
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to Yue Wu’s homepage!"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /en_us/
 ---
+
+<!-- 主页上只展示客观成果，主观的东西和需要展开讲的东西放到其他页面 -->
+---
+
+# About
 
 I'm a third year undergraduate student from [School of Microelectronics](https://sme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes wireless communication, mobile computing, digital circuit design.
 
