@@ -47,3 +47,40 @@ You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum
 <!-- Explanation for abbreviations -->
 
 *[USTC]: University of Science and Technology of China 
+
+# Gallery
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-1.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-2.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-5.jpg" 
+        width = "30%">
+    <br />
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-8.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-7.jpg" 
+        width = "30%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/me-6.jpg" 
+        width = "30%">
+    <p> </p>
+</center>
