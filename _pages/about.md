@@ -12,7 +12,7 @@ redirect_from:
 
 # About
 
-I'm a third year undergraduate student from [Department of Electronics Science and Technology](https://en.sist.ustc.edu.cn/4923/list.psp), [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"). My research interest includes wireless communication, mobile computing, digital circuit design.
+I'm a third year undergraduate student from [Department of Electronics Science and Technology](https://en.sist.ustc.edu.cn/2011/0520/c4923a44383/page.psp), [University of Science and Technology of China](https://en.ustc.edu.cn "USTC"). My research interest includes wireless communication, mobile computing, digital circuit design.
 
 I am very fortunate to be advised by [Prof. Wei Gong](https://ubiot.ustc.edu.cn/weigong) of [Ubiquitous Battery-free Internet of Things Laboratory](https://ubiot.ustc.edu.cn/Home) from [School of Computer Science](https://en.cs.ustc.edu.cn/), University of Science and Technology of China. I was advised by [Prof. Ameer Abehedahi](https://www.ece.mcmaster.ca/~ameer/) from [Department of Electrical and Computer Engineering](https://www.eng.mcmaster.ca/ece/), McMaster University.
 
