@@ -24,7 +24,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Sunken Garden in the Butchart Gadrens, Brentwood Bay, BC V8M 1A6, Canada, 08/14/2024
+        Sunken Garden in the <a href = "https://www.butchartgardens.com/">Butchart Gadrens, Brentwood Bay, BC V8M 1A6, Canada, 08/14/2024
     </div>
     <p> </p>
 </center>
@@ -42,7 +42,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        with the local cycling clubs, at the <a href = "https://en.hlcruinspark.com/">Helv City Relics</a>, Wuxi, summer 2019
+        Ecomarine English Bay at the <a href = "https://granvilleisland.com/"> granville island, 1700 Beach Ave, Vancouver, BC V6G, Canada, 08/11/2024
     </div>
     <p> </p>
 </center>
