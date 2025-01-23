@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-# 🚴‍♂️Photos 
+# Photos 
 
 <center>
     <img style = "
@@ -24,7 +24,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        with the local cycling clubs, on Road S230 in Wuxi, summer 2019
+        Sunken Garden in the Butchart Gadrens, Brentwood Bay, BC V8M 1A6, Canada, 08/14/2024
     </div>
     <p> </p>
 </center>
