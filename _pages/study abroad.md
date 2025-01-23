@@ -141,7 +141,7 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/travel/Hkust1.jpg" 
+        src = "../files/travel/UTAustin1.jpg" 
         width = "60%">
     <br />
     <div style = "
@@ -150,7 +150,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Visited <a href = "https://fengbintu.github.io/">Prof. Fengbin Tu</a>'s Lab at <a href = "https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>, Clear Water Bay, Kowloon, Hong Kong, under the guidance of my senior <a href = "https://starkerfirst.github.io/">Bohan Yang </a>, 04/06/2024
+        Celebrated the Lunar New Year Party with the lion dance performers and my friend Mao Ye at <a href = "https://universityunions.utexas.edu/texas-union"> The Texas Union </a> of <a href = "https://www.utexas.edu/"> the University of Texas at Austin </a>, 2308 Whitis Ave F4200 Austin, TX 78712  02/06/2024
     </div>
     <p> </p>
 </center>
