@@ -150,7 +150,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Visited <a href = "https://fengbintu.github.io/">Prof. Fengbin Tu</a>'s Lab at <a href = "https://hkust.edu.hk/">The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, under the guidance of my senior <a href = "https://starkerfirst.github.io/">Bohan Yang </a>, 04/06/2024
+        Visited <a href = "https://fengbintu.github.io/">Prof. Fengbin Tu</a>'s Lab at <a href = "https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>, Clear Water Bay, Kowloon, Hong Kong, under the guidance of my senior <a href = "https://starkerfirst.github.io/">Bohan Yang </a>, 04/06/2024
     </div>
     <p> </p>
 </center>
