@@ -1,4 +1,4 @@
-
+---
 # layout: archive # too wide
 title: "Study Abroad"
 permalink: /study abroad/
