@@ -64,7 +64,8 @@ I built a robot with my teammates in USTC’s 2023 Robogame. I was responsible f
 We won the 2nd prize among 39 teams. (Project code) 
 
 <iframe src="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/preview" 
-        width="640" height="480" allow="autoplay"></iframe>
+        width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
+</iframe>
 
 <iframe src="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/preview" 
         width="640" height="480" allow="autoplay"></iframe>
