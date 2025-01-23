@@ -21,10 +21,10 @@ repository               : "Jeffyaoliang/Jeffyaoliang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me2.png"
   name             : "Yaoliang Bian（卞耀亮）"
   pronouns         : # example: "she/her"  
-  bio              : " a junior undergraduate majoring in Electrical Engineering and I am looking for 2025 summer research opportunity."
+  bio              : "I am a junior undergraduate majoring in Electrical Engineering and I am looking for 2025 summer research opportunity."
   location         : "Hefei, Anhui, China"
   employer         : "University of Science and Technology of China"
   uri              : # URL
