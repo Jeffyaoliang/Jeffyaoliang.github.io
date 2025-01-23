@@ -234,6 +234,22 @@ author_profile: true
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/travel/Austin4.jpg" 
         width = "49%">
+    <img style="
+    border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);
+    height: 300px;
+    width: 49%;
+    object-fit: cover;" 
+    src="../files/travel/Austin3.jpg">
+
+    <img style="
+    border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);
+    height: 300px;
+    width: 49%;
+    object-fit: cover;" 
+    src="../files/travel/Austin4.jpg">
+
     <br />
     <div style = "
         color: orange;
