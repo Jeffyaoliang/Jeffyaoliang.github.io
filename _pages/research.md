@@ -66,6 +66,8 @@ We won the 2nd prize among 39 teams. (Project code)
 <iframe src="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/preview" 
         width="640" height="480" allow="autoplay"></iframe>
 
+<iframe src="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/preview" 
+        width="640" height="480" allow="autoplay"></iframe>
 
 arXiv preprint (submitted): [here](https://arxiv.org/abs/2311.09119 "arXiv link"){:target="_blank"} 
 
