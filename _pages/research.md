@@ -89,6 +89,29 @@ Final: 07/21/2023
 
 I participated in the power relay group of Anhui division with my passionate teammates, Weixing Chen, Xinyuan Zhang, Boxuan Niu. I was responsible for the PCB design of the core boards for the rescue vehicle and the rescued vehicle of the electrical energy relay team. Weixing Chen and I also provided help to the team of Shanghai Jiao Tong University in the intelligent vision group of East China Division.
 
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/picture/Xia_Tou_Ke_Nan_Team's_introduction_&_car.jpg" 
+        width = "46.5%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/picture/Xia_Tou_Ke_Nan_Team's_car.jpg" 
+        width = "50%">
+    <br />
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        left: tearing mode structure; right: kinetic energy
+    </div>
+    <p> </p>
+</center>
+
 <figure>
     <img src="../files/picture/Xia_Tou_Ke_Nan_Team's_introduction_&_car.jpg" 
          alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
