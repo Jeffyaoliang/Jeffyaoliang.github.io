@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/a69f072a-07d5-4649-8371-51166c3cddb5)---
 # layout: archive # too wide
 title: "Study Abroad"
 permalink: /study abroad/
@@ -114,7 +114,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        USTC cycling club
+        Visit <a href = "https://www.kings.cam.ac.uk/"> King's College, Cambridge</a> CB2 1ST, UK with friends when paticipating in Summer Institute at Oriel College of Oxford University, 08/06/2023 
     </div>
     <p> </p>
 </center>
