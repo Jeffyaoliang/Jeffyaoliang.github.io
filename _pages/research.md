@@ -64,7 +64,7 @@ I Built a robot with my teammates in USTC’s 2023 Robogame. I was responsible f
 We won the 2nd prize among 39 teams. (Project code) 
 
 <video controls width="640">
-  <source src="./path-to-your-video/video.mp4" type="video/mp4">
+  <source src="../files/" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
