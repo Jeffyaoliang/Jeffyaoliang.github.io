@@ -193,12 +193,12 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/13.jpg" 
+        src = "../files/travel/Hkust1.jpg"
         width = "49%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/14.jpg" 
+        src = "../files/travel/Hkust2.jpg" 
         width = "49%">
     <br />
     <div style = "
@@ -207,7 +207,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        local cycling club event (100+ participants), Aug. 2023
+        Visited <a href = "https://fengbintu.github.io/">Prof. Fengbin Tu</a>'s Lab at <a href = "https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>, Clear Water Bay, Kowloon, Hong Kong, under the guidance of my senior <a href = "https://starkerfirst.github.io/">Bohan Yang </a>, 04/06/2024
     </div>
     <p> </p>
 </center>
