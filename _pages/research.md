@@ -101,7 +101,7 @@ and GPU implementations, emphasizing fine-grained parallelism, on-chip memory us
     <p> </p>
 </center>
 
-Defense PPT (in Chinese) preview: [here](../files/undergraduate-research-program/PPT.pdf){:target="_blank"}. 
+Defense PPT (in Chinese) preview: [here](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx){:target="_blank"}. 
 
 ## 3. Discontinuous Galerkin Methods for the p-Laplace Equation 
 
