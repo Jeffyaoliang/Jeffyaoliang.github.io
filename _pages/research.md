@@ -176,23 +176,3 @@ Demo preview:
 ---
 
 
-# Numerical PDE Programming (choronological order) 
-
-| PDE | method | domain | mesh | language |
-| --- | --- | --- | --- | --- |
-| Poisson (Dirichlet) | 2-order FD | 2D rectangle | uniform Cartesian | Matlab |
-| compressible Euler | 5-order FD-WENO | 1D interval | uniform Cartesian | Fortran |
-| compressible Navier--Stokes | 5-order FD-WENO | 2D rectangle | uniform Cartesian | Fortran + OpenMP |
-| Hamilton-Jacobi | 5-order FD-WENO | 2D rectangle | uniform Cartesian | Fortran + OpenMP |
-| compressible RMHD | 5-order FD-HJ | 2D rectangle | uniform Cartesian | Fortran + OpenMP |
-| compressible RMHD | 4-order FD-HJ + Fourier | 3D toroidal with rectangular section | uniform Cylindrical | Fortran + OpenMP |
-| compressible RMHD | 3-order FD-HJ + Fourier | 3D toroidal with circular section | uniform Cartesian (embedded) | Fortran + OpenMP + MPI |
-| compressible MHD | arbitrary-degree DG (locally div-free) | 2D rectangle | arbitrary Cartesian | Fortran + OpenMP + MPI |
-| Poisson | arbitrary-degree FEM | 1D interval | arbitrary Cartesian | Matlab |
-| Poisson | quadratic FEM | 2D polygon | triangular | Matlab |
-| Poisson | LDG | 1D interval | arbitrary Cartesian | Matlab |
-| Poisson | HDG | 1D interval | arbitrary Cartesian | Matlab |
-| Poisson | arbitrary-degree MD-LDG (good results up to k=9) | 2D polygon | triangular | Matlab |
-| p-Laplace | arbitrary-degree LDG | 1D interval | arbitrary Cartesian | Matlab |
-| p-Laplace | arbitrary-degree LDG | 2D polygon | triangular | Matlab |
-| mixed FEM | arbitrary-degree FEM | 2D polygon | triangular | MFEM |
