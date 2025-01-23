@@ -105,6 +105,24 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/travel/UTAustin1.jpg" 
+        width = "60%">
+    <br />
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Celebrated the Lunar New Year Party with the lion dance performers and my friend Mao Ye at <a href = "https://universityunions.utexas.edu/texas-union"> The Texas Union </a> of <a href = "https://www.utexas.edu/"> the University of Texas at Austin </a>, 2308 Whitis Ave F4200 Austin, TX 78712  02/06/2024
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/travel/London1.jpg" 
         width = "60%">
     <br />
@@ -133,24 +151,6 @@ author_profile: true
         color: #999;
         padding: 2px;">
         Visited <a href = "https://www.kings.cam.ac.uk/"> King's College, Cambridge</a> CB2 1ST, UK with friends when paticipating in Summer Institute at <a href = "https://www.oriel.ox.ac.uk/"> Oriel College of Oxford University</a>, 08/06/2023 
-    </div>
-    <p> </p>
-</center>
-
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/travel/UTAustin1.jpg" 
-        width = "60%">
-    <br />
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Celebrated the Lunar New Year Party with the lion dance performers and my friend Mao Ye at <a href = "https://universityunions.utexas.edu/texas-union"> The Texas Union </a> of <a href = "https://www.utexas.edu/"> the University of Texas at Austin </a>, 2308 Whitis Ave F4200 Austin, TX 78712  02/06/2024
     </div>
     <p> </p>
 </center>
