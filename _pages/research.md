@@ -163,6 +163,12 @@ This experiment aims to understand the physical properties and structural charac
 
 Summary essay preview: [here](https://drive.google.com/file/d/1mF824PXULRFDKP2KEecxfiXSzwnpKZhE/preview){:target="_blank"}. 
 Demo preview: [here](https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview){:target="_blank"}.
+<div style="display: flex; justify-content: center; gap: 1em;">
+    <iframe src="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview" 
+            width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
+    </iframe>
+   
+</div>
 
 ---
 
