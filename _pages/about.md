@@ -66,3 +66,6 @@ You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum
      src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg">
 
 </center>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pMLfzEahNPQFJWL9EAmleKXSVQyM1rvBS9V4BY97EZA&cl=ffffff&w=a"></script>
+
