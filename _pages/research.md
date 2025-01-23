@@ -90,7 +90,7 @@ Final: 07/21/2023
 I participated in the power relay group of Anhui division with my passionate teammates, Weixing Chen, Xinyuan Zhang, Boxuan Niu. I was responsible for the PCB design of the core boards for the rescue vehicle and the rescued vehicle of the electrical energy relay team. Weixing Chen and I also provided help to the team of Shanghai Jiao Tong University in the intelligent vision group of East China Division.
 
 <figure>
-    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+    <img src="../files/picture/Xia_Tou_Ke_Nan_Team's_introduction_&_car.jpg" 
          alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
     <figcaption>
         Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
@@ -98,7 +98,7 @@ I participated in the power relay group of Anhui division with my passionate tea
 </figure>
 
 <figure>
-    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+    <img src="../files/picture/Xia_Tou_Ke_Nan_Team's_car.jpg" 
          alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
     <figcaption>
         Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
@@ -106,7 +106,7 @@ I participated in the power relay group of Anhui division with my passionate tea
 </figure>
 
 <figure>
-    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+    <img src="../files/picture/Duck_Yummy_Team's_car.jpg" 
          alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
     <figcaption>
         Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
@@ -114,7 +114,7 @@ I participated in the power relay group of Anhui division with my passionate tea
 </figure>
 
 <figure>
-    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+    <img src="../files/picture/East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology.jpg" 
          alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
     <figcaption>
         Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
