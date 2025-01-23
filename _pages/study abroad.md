@@ -87,7 +87,7 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/9.jpg" 
+        src = "../files/travel/London1.jpg" 
         width = "60%">
     <br />
     <div style = "
@@ -96,7 +96,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        my bicycle at the riverside in Thirty-Peak agricultural region, Hefei, March 2022
+        Watch <a href = "https://uk.thephantomoftheopera.com/"> The Phantom of the Opera</a> at His Majesty's Theatre, 57 Haymarket, London, SW1Y 4QL, United Kingdom, 08/12/2023 
     </div>
     <p> </p>
 </center>
