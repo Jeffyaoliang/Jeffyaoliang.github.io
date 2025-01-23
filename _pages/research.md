@@ -25,7 +25,7 @@ author_profile: true
 ---
 
 
-# Research Experiences 
+# Research & Project Experience
 
 ## 1. Harnessing Multi-Frequency Carriers for Commodity Bluetooth Backscatter 
 
@@ -50,17 +50,18 @@ and GPU implementations, emphasizing fine-grained parallelism, on-chip memory us
 
 Defense PPT (in Chinese) preview: [here](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx){:target="_blank"}. 
 
-## 3. Discontinuous Galerkin Methods for the p-Laplace Equation 
+## 3. Robogame 
 
-*Bachelor's Thesis at USTC* 
+*A Robot Competition at USTC* 
 
-Supervisor: [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu "Prof. Yan XU's homepage"){:target="_blank"} 
+Supervisor: [Prof. Huichun Ye](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "Prof. Huichun Ye's homepage"){:target="_blank"} 
 
-12/2022 ~ 06/2023, USTC 
+05/2023 ~ 10/2023, USTC 
 
 Defense: 06/07/2023 
 
-We study the high-order local discontinuous Galerkin (LDG) method for the p-Laplace equation. We reformulate our spatial discretization as an equivalent convex minimization problem and use a preconditioned gradient descent method as the nonlinear solver. For the first time, a weighted preconditioner that provides hk-independent convergence is applied in the LDG setting. For polynomial order k ≥ 1, we rigorously establish the solvability of our scheme and provide a priori error estimates in a mesh-dependent energy norm. Our error estimates are under a different and non-equivalent distance from existing LDG results. For arbitrarily high-order polynomials under the assumption that the exact solution has enough regularity, the error estimates demonstrate the potential for high-order accuracy. Our numerical results exhibit the desired convergence speed facilitated by the preconditioner, and we observe best convergence rates in gradient variables in alignment with linear LDG, and optimal rates in the primal variable when 1 < p ≤ 2. 
+I Built a robot with my teammates in USTC’s 2023 Robogame. I was responsible for the electrical wiring of the robot chassis and the coding of motion control. Our Robot can independently identify, grab ores of different colors and transport them to the designated area in time.
+We won the 2nd prize among 39 teams. (Project code) 
 
 arXiv preprint (submitted): [here](https://arxiv.org/abs/2311.09119 "arXiv link"){:target="_blank"} 
 
