@@ -73,14 +73,6 @@ We won the 2nd prize among 39 teams. (Project code: [here](https://gitee.com/lan
     </iframe>
 </div>
 
-<iframe src="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/preview" 
-        width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
-</iframe>
-
-<iframe src="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/preview" 
-        width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
-</iframe>
-
 <figure>
     <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
          alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
