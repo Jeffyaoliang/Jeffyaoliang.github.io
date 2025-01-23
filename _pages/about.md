@@ -67,7 +67,10 @@ You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum
 
 </center>
 
+# Contact
 
+* Email: bianyaoliang [at] mail [dot] ustc [dot] edu [dot] cn
+* Address: Room 1416, Building 6 Student Residence, Gaoxin Campus of University of Science and Technology of China, Hefei, Anhui, 230031, P. R. China
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=pMLfzEahNPQFJWL9EAmleKXSVQyM1rvBS9V4BY97EZA&cl=ffffff&w=a"></script>
 
