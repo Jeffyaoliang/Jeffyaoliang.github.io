@@ -71,6 +71,7 @@ We won the 2nd prize among 39 teams. (Project code)
         width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
 </iframe>
 
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/my-photo.jpg" width="50%" alt="My Photo">
 
 
 
