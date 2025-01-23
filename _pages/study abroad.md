@@ -224,16 +224,7 @@ author_profile: true
         src = "../files/travel/Austin2.jpg" 
         width = "49%">
     <br />
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/travel/Austin3.jpg" 
-        width = "49%">
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/travel/Austin4.jpg" 
-        width = "49%">
+   
     <img style="
     border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);
