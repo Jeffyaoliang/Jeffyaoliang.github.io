@@ -61,7 +61,7 @@ Supervisor: [Prof. Huichun Ye](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/
 Final: 10/22/2023 
 
 I built a robot with my teammates in USTC’s 2023 Robogame. I was responsible for the electrical wiring of the robot chassis and the coding of motion control. Our Robot can independently identify, grab ores of different colors and transport them to the designated area in time.
-We won the 2nd prize among 39 teams. (Project code) 
+We won the 2nd prize among 39 teams. (Project code: [here](https://gitee.com/langlang02/miner-craft-robogame2023 "gitee link"){:target="_blank"} ) 
 
 <iframe src="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/preview" 
         width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
@@ -71,8 +71,6 @@ We won the 2nd prize among 39 teams. (Project code)
         width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
 </iframe>
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/my-photo.jpg" width="50%" alt="My Photo">
-<img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) 2023.10.10@Innovative Center">
 <figure>
     <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
          alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
