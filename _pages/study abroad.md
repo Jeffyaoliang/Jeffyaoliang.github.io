@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a69f072a-07d5-4649-8371-51166c3cddb5)---
+
 # layout: archive # too wide
 title: "Study Abroad"
 permalink: /study abroad/
