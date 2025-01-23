@@ -113,65 +113,40 @@ I participated in the power relay group of Anhui division with my passionate tea
         display: inline-block;
         color: #999;
         padding: 2px;">
-        left: tearing mode structure; right: kinetic energy
+        Xia Tou Ke Nan Team's introduction & car
     </div>
     <p> </p>
 </center>
 
-<center>
-    <img style = "
+<center> 
+    <img style="
         border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/picture/Xia_Tou_Ke_Nan_Team's_introduction_&_car.jpg" 
-        width = "46.5%">
-    <img style = "
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); 
+        height: 300px; 
+        object-fit: cover;" 
+        src="../files/picture/Duck_Yummy_Team's_car.jpg" 
+        width="46.5%">
+    
+    <img style="
         border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/picture/Xia_Tou_Ke_Nan_Team's_car.jpg" 
-        width = "50%">
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); 
+        height: 300px; 
+        object-fit: cover;" 
+        src="../files/picture/East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology.jpg" 
+        width="50%">
+    
     <br />
-    <div style = "
+    <div style="
         color: orange;
         border-bottom: 1px solid #d9d9d9;
         display: inline-block;
         color: #999;
         padding: 2px;">
-        left: tearing mode structure; right: kinetic energy
+        left: Duck Yummy Team's car; right: East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology
     </div>
     <p> </p>
 </center>
 
-<figure>
-    <img src="../files/picture/Xia_Tou_Ke_Nan_Team's_introduction_&_car.jpg" 
-         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
-    <figcaption>
-        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
-    </figcaption>
-</figure>
-
-<figure>
-    <img src="../files/picture/Xia_Tou_Ke_Nan_Team's_car.jpg" 
-         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
-    <figcaption>
-        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
-    </figcaption>
-</figure>
-
-<figure>
-    <img src="../files/picture/Duck_Yummy_Team's_car.jpg" 
-         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
-    <figcaption>
-        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
-    </figcaption>
-</figure>
-
-<figure>
-    <img src="../files/picture/East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology.jpg" 
-         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
-    <figcaption>
-        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
-    </figcaption>
-</figure>
 ---
 
 
