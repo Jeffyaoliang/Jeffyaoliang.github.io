@@ -168,16 +168,10 @@ Demo preview:
             width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
     </iframe>
     <figcaption style="text-align: center; color: #555; font-size: 16px; margin-top: 10px;">
-        Video Title: Example Video
+        Demo: Effect of changing geometry (wedge gradient) on Skyrmion motion
     </figcaption>
 </figure>
 
-<div style="display: flex; justify-content: center; gap: 1em;">
-    <iframe src="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview" 
-            width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
-    </iframe>
-   
-</div>
 
 ---
 
