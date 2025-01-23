@@ -114,7 +114,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Celebrated the Lunar New Year Party with the lion dance performers and my friend Mao Ye at <a href = "https://universityunions.utexas.edu/texas-union"> The Texas Union </a> of <a href = "https://www.utexas.edu/"> the University of Texas at Austin </a>, 2308 Whitis Ave F4200 Austin, TX 78712  02/06/2024
+        Celebrated the Lunar New Year Party with the lion dance performers and my friend Mao Ye at <a href = "https://universityunions.utexas.edu/texas-union"> The Texas Union </a> when participating in the International Academy Winter 2024 for Software Engineering at <a href = "https://www.utexas.edu/"> the University of Texas at Austin </a>, 2308 Whitis Ave F4200 Austin, TX 78712  02/06/2024
     </div>
     <p> </p>
 </center>
