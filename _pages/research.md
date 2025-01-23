@@ -60,13 +60,12 @@ Supervisor: [Prof. Huichun Ye](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/
 
 Defense: 06/07/2023 
 
-I Built a robot with my teammates in USTC’s 2023 Robogame. I was responsible for the electrical wiring of the robot chassis and the coding of motion control. Our Robot can independently identify, grab ores of different colors and transport them to the designated area in time.
+I built a robot with my teammates in USTC’s 2023 Robogame. I was responsible for the electrical wiring of the robot chassis and the coding of motion control. Our Robot can independently identify, grab ores of different colors and transport them to the designated area in time.
 We won the 2nd prize among 39 teams. (Project code) 
 
-<video controls width="640">
-  <source src="../files/" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/preview" 
+        width="640" height="480" allow="autoplay"></iframe>
+
 
 arXiv preprint (submitted): [here](https://arxiv.org/abs/2311.09119 "arXiv link"){:target="_blank"} 
 
