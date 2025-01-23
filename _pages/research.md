@@ -63,6 +63,11 @@ Defense: 06/07/2023
 I Built a robot with my teammates in USTC’s 2023 Robogame. I was responsible for the electrical wiring of the robot chassis and the coding of motion control. Our Robot can independently identify, grab ores of different colors and transport them to the designated area in time.
 We won the 2nd prize among 39 teams. (Project code) 
 
+<video controls width="640">
+  <source src="./path-to-your-video/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 arXiv preprint (submitted): [here](https://arxiv.org/abs/2311.09119 "arXiv link"){:target="_blank"} 
 
 
