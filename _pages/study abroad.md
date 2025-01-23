@@ -69,6 +69,24 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/travel/Uoft1.jpg" 
+        width = "60%">
+    <br />
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Visit  <a href = "https://www.trinity.utoronto.ca/">Trinity College in the University of Toronto</a> at 6 Hoskin Avenue, Toronto, Ontario, Canada M5S 1H8, with friends when doing summer research in <a href = "https://www.mcmaster.ca/"> McMaster University</a>, 07/01/2024
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/travel/Pyramid1.jpg" 
         width = "60%">
     <br />
@@ -123,7 +141,7 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/4.jpg" 
+        src = "../files/travel/Uoft1.jpg" 
         width = "60%">
     <br />
     <div style = "
@@ -132,7 +150,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        my aerobike at the school gate
+        Visit  <a href = "https://www.trinity.utoronto.ca/">Trinity College in the University of Toronto</a> at 6 Hoskin Avenue, Toronto, Ontario, Canada M5S 1H8, with friends when doing summer research in <a href = "https://www.mcmaster.ca/"> McMaster University</a>, 07/01/2024
     </div>
     <p> </p>
 </center>
