@@ -45,8 +45,7 @@ Supervisor: [Prof. Ameer Abdelhadi](https://www.ece.mcmaster.ca/~ameer/ "Prof. A
 
 07/2024 ~ 09/2024, McMaster University (onsite) 
 
-This survey explores the development of domain-specific architectures for reinforcement learning (RL), highlighting advancements and challenges in implementing RL on specialized hardware. As RL algorithms grow more complex and computationally intensive, custom hardware solutions offer promising pathways to enhance performance, energy efficiency, and scalability. We review different architectures designed to accelerate RL algorithms as well as key contributions for various fields such as IoT applications, hardware prefetching and processors. Previous work primarily focused on either FPGA or GPU implementations, lacking extensive performance comparisons across various RL algorithms and configurations especially the modern ones. They also lack detailed discussions on integrating advanced neural network layers like CNNs and RNNs in FPGA designs. Our survey addresses these gaps by providing a comprehensive comparison of FPGA
-and GPU implementations, emphasizing fine-grained parallelism, on-chip memory usage, and integration with software-based environments. Furthermore, we explore near-memory computing and state-of-the-art DRL algorithms on custom hardware. We conclude with future research directions, including integrating advanced neural network layers in FPGA designs and exploring near-memory computing to further enhance
+This survey explores the development of domain-specific architectures for reinforcement learning (RL), highlighting advancements and challenges in implementing RL on specialized hardware. As RL algorithms grow more complex and computationally intensive, custom hardware solutions offer promising pathways to enhance performance, energy efficiency, and scalability. We review different architectures designed to accelerate RL algorithms as well as key contributions for various fields such as IoT applications, hardware prefetching and processors. Previous work primarily focused on either FPGA or GPU implementations, lacking extensive performance comparisons across various RL algorithms and configurations especially the modern ones. They also lack detailed discussions on integrating advanced neural network layers like CNNs and RNNs in FPGA designs. Our survey addresses these gaps by providing a comprehensive comparison of FPGA and GPU implementations, emphasizing fine-grained parallelism, on-chip memory usage, and integration with software-based environments. Furthermore, we explore near-memory computing and state-of-the-art DRL algorithms on custom hardware. We conclude with future research directions, including integrating advanced neural network layers in FPGA designs and exploring near-memory computing to further enhance
 RL capabilities on custom hardware.
 
 Defense PPT (in Chinese) preview: [here](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx){:target="_blank"}. 
@@ -61,7 +60,7 @@ Supervisor: [Prof. Huichun Ye](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/
 
 Final: 10/22/2023 
 
-I built a robot with my teammates in USTC’s 2023 Robogame. I was responsible for the electrical wiring of the robot chassis and the coding of motion control. Our Robot can independently identify, grab ores of different colors and transport them to the designated area in time.
+I built a robot with my teammates in USTC’s 2023 Robogame. I was responsible for the operation and maintenance of the core power supply module and the air pump system, as well as assisting with parameter tuning. Our Robot can independently identify, grab ores of different colors and transport them to the designated area in time.
 We won the 2nd prize among 39 teams. (Project code: [here](https://gitee.com/langlang02/miner-craft-robogame2023 "gitee link"){:target="_blank"} ) 
 
 <iframe src="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/preview" 
@@ -76,11 +75,51 @@ We won the 2nd prize among 39 teams. (Project code: [here](https://gitee.com/lan
     <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
          alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
     <figcaption>
-        My great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
+        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
     </figcaption>
 </figure>
 
+## 4. 18th National College Students' Smart Car Competition 
 
+Supervisor: [Prof. Huichun Ye](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "Prof. Huichun Ye's homepage"){:target="_blank"} 
+
+11/2022 ~ 07/2023, USTC 
+
+Final: 07/21/2023 
+
+I participated in the power relay group of Anhui division with my passionate teammates, Weixing Chen, Xinyuan Zhang, Boxuan Niu. I was responsible for the PCB design of the core boards for the rescue vehicle and the rescued vehicle of the electrical energy relay team. Weixing Chen and I also provided help to the team of Shanghai Jiao Tong University in the intelligent vision group of East China Division.
+
+<figure>
+    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
+    <figcaption>
+        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
+    <figcaption>
+        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
+    <figcaption>
+        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
+    </figcaption>
+</figure>
+
+<figure>
+    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
+    <figcaption>
+        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
+    </figcaption>
+</figure>
 ---
 
 
