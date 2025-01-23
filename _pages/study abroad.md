@@ -159,23 +159,23 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/12.jpg" 
+        src = "../files/travel/McMaster1.jpg" 
         width = "49%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/16.jpg" 
+        src = "../files/riding/McMaster2.jpg" 
         width = "49%">
     <br />
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/15.jpg" 
+        src = "../files/riding/McMaster3.jpg" 
         width = "49%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/17.jpg" 
+        src = "../files/riding/McMaster4.jpg" 
         width = "49%">
     <br />
     <div style = "
@@ -184,7 +184,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        riding by the Chaohu Lake at a local club event, Mar. 2023
+        doing summer reserch internship under <a href = "https://www.ece.mcmaster.ca/~ameer/"> Prof. Ameer Abdelhadi</a>’s supervision at <a href = "https://www.mcmaster.ca/"> McMaster University</a>, 1280 Main Street West  Hamilton, Ontario  L8S 4L8, Canada, Summer 2024
     </div>
     <p> </p>
 </center>
