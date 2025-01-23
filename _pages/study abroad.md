@@ -78,7 +78,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Visit  <a href = "https://www.trinity.utoronto.ca/">Trinity College in the University of Toronto</a> at 6 Hoskin Avenue, Toronto, Ontario, Canada M5S 1H8, with friends when doing summer research in <a href = "https://www.mcmaster.ca/"> McMaster University</a>, 07/01/2024
+        Visited <a href = "https://www.trinity.utoronto.ca/">Trinity College in the University of Toronto</a> at 6 Hoskin Avenue, Toronto, Ontario, Canada M5S 1H8, with friends when doing summer research in <a href = "https://www.mcmaster.ca/"> McMaster University</a>, 07/01/2024
     </div>
     <p> </p>
 </center>
@@ -96,7 +96,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Visit Pyramids of Giza, Egypt when transfering from Cairo to Toronto, 06/28/2024
+        Visited Pyramids of Giza, Egypt when transfering from Cairo to Toronto, 06/28/2024
     </div>
     <p> </p>
 </center>
@@ -114,7 +114,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Watch <a href = "https://uk.thephantomoftheopera.com/"> The Phantom of the Opera</a> at His Majesty's Theatre, 57 Haymarket, London, SW1Y 4QL, United Kingdom, 08/12/2023 
+        Watched <a href = "https://uk.thephantomoftheopera.com/"> The Phantom of the Opera</a> at His Majesty's Theatre, 57 Haymarket, London, SW1Y 4QL, United Kingdom, 08/12/2023 
     </div>
     <p> </p>
 </center>
@@ -132,7 +132,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Visit <a href = "https://www.kings.cam.ac.uk/"> King's College, Cambridge</a> CB2 1ST, UK with friends when paticipating in Summer Institute at <a href = "https://www.oriel.ox.ac.uk/"> Oriel College of Oxford University</a>, 08/06/2023 
+        Visited <a href = "https://www.kings.cam.ac.uk/"> King's College, Cambridge</a> CB2 1ST, UK with friends when paticipating in Summer Institute at <a href = "https://www.oriel.ox.ac.uk/"> Oriel College of Oxford University</a>, 08/06/2023 
     </div>
     <p> </p>
 </center>
@@ -141,7 +141,7 @@ author_profile: true
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/travel/Uoft1.jpg" 
+        src = "../files/travel/Hkust1.jpg" 
         width = "60%">
     <br />
     <div style = "
@@ -150,25 +150,7 @@ author_profile: true
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Visit  <a href = "https://www.trinity.utoronto.ca/">Trinity College in the University of Toronto</a> at 6 Hoskin Avenue, Toronto, Ontario, Canada M5S 1H8, with friends when doing summer research in <a href = "https://www.mcmaster.ca/"> McMaster University</a>, 07/01/2024
-    </div>
-    <p> </p>
-</center>
-
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/11.jpg" 
-        width = "60%">
-    <br />
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        at the Sanhe Ancient Town, Nov. 2022
+        Visited <a href = "https://fengbintu.github.io/">Prof. Fengbin Tu</a>'s Lab at <a href = "https://hkust.edu.hk/">The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, under the guidance of my senior <a href = "https://starkerfirst.github.io/">Bohan Yang </a>, 04/06/2024
     </div>
     <p> </p>
 </center>
