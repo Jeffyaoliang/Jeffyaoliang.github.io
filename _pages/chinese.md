@@ -62,9 +62,7 @@ author_profile: true
     - <details> <summary>摘要（点击展开）</summary>我和队友们一起制作了一个机器人。我负责核心供电模块和气泵系统的操作和维护，并协助进行参数调整。我们的机器人可以独立识别、抓取不同颜色的矿石，并及时运送到指定区域。我们从 39 个参赛队中脱颖而出，荣获二等奖。</details>
     - <div style="display: flex; align-items: center; gap: 1em;">
   <!-- 项目代码链接 -->
-  <p>
     成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" target="_blank" title="项目代码">项目代码</a>
-  </p>
   
   <!-- 视频预览链接 -->
   <p>
