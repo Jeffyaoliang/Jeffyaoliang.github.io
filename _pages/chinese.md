@@ -60,7 +60,7 @@ author_profile: true
     - 题目：中国科大Robogame2023机器人大赛竞技组 
     - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"} 
     - <details> <summary>摘要（点击展开）</summary>我和队友们一起制作了一个机器人。我负责核心供电模块和气泵系统的操作和维护，并协助进行参数调整。我们的机器人可以独立识别、抓取不同颜色的矿石，并及时运送到指定区域。我们从 39 个参赛队中脱颖而出，荣获二等奖。</details>
-    - 成果：<div style="display: flex; align-items: center; gap: 1em;">
+    - <div style="display: flex; align-items: center; gap: 1em;">
   <!-- 项目代码链接 -->
   <p>
     成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" target="_blank" title="项目代码">项目代码</a>
