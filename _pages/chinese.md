@@ -56,9 +56,9 @@ author_profile: true
     - 导师：[Ameer Abehadi 助理教授](https://www.ece.mcmaster.ca/~ameer/ "Prof. Ameer Abehadi"){:target="_blank"} 
     - <details> <summary>摘要（点击展开）</summary> 本研究探讨了强化学习（RL）特定领域架构的发展，重点介绍了在专用硬件上实施强化学习的进展和挑战。随着强化学习算法日益复杂和计算密集，定制硬件解决方案为提高性能、能效和可扩展性提供了大有可为的途径。我们回顾了为加速 RL 算法而设计的不同架构，以及在物联网应用、硬件预取和处理器等不同领域的主要贡献。以前的工作主要集中在 FPGA 或 GPU 实现上，缺乏对各种 RL 算法和配置（尤其是现代算法和配置）进行广泛的性能比较。此外，这些研究还缺乏关于在 FPGA 设计中集成 CNN 和 RNN 等高级神经网络层的详细讨论。我们的调查报告通过对 FPGA 和 GPU 实现进行全面比较，强调细粒度并行性、片上内存使用以及与基于软件环境的集成，弥补了这些不足。此外，我们还探讨了定制硬件上的近内存计算和最先进的 DRL 算法。最后，我们提出了未来的研究方向，包括在 FPGA 设计中集成先进的神经网络层，以及探索近内存计算，以进一步增强定制硬件上的 RL 功能。</details>
     - 成果：[PPT](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx "大研答辩PPT"){:target="_blank"} 
-- 2022年12月 ~ 2023年6月于中国科大：本科毕业论文 
-    - 题目：p-Laplace 方程的间断有限元方法 
-    - 导师：[徐岩 教授](https://faculty.ustc.edu.cn/yxu/zh_CN/index.htm "徐岩教授的个人主页"){:target="_blank"} 
+- 2023年5月 ~ 2023年10月于中国科大：Robogame 
+    - 题目：中国科大Robogame2023机器人大赛竞技组 
+    - 导师：[叶回春 教授](https://faculty.ustc.edu.cn/yxu/zh_CN/index.htm "叶回春教授的个人主页"){:target="_blank"} 
     - <details> <summary>摘要（点击展开）</summary>本课题研究了 p-Laplace 方程的局部间断有限元（LDG）方法。我们把空间离散得到的问题重写成一个等价的凸优化问题，并使用预条件梯度下降方法求解。我们首次将一种能提供 hk-无关的收敛速度的加权预条件子应用在了 LDG 框架中。对于多项式阶数 k ≥ 1，我们严格证明了我们的数值格式的可解性，并给出了一种依赖于网格的能量范数下的先验误差估计。我们的误差估计过程是在一种与现有结果不同且不等价的范数下进行的。在假设了光滑解的前提下，对于高阶多项式，我们的估计显示出了误差高阶收敛的特性。我们的数值结果体现出了我们所预期的迭代收敛速度。我们观察到了与线性情形相类似的，梯度变量误差的最佳收敛速度。同时，当 1 < p ≤ 2 时，在我们的算例中，原始变量的误差可以达到最优收敛速度。</details>
     - 成果：[arXiv 预印本](https://arxiv.org/abs/2311.09119 "arXiv 预印本"){:target="_blank"} 
 
