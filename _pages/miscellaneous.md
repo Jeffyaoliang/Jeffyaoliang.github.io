@@ -25,43 +25,43 @@ redirect_from:
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/Flower1.jpg" 
+        src = "../files/picture/Flower1.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/Flower2.jpg" 
+        src = "../files/picture/Flower2.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/Flower3.jpg" 
+        src = "../files/picture/Flower3.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/Flower4.jpg" 
+        src = "../files/picture/Flower4.jpg" 
         width = "24%">
     <br />
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/Flower5.jpg" 
+        src = "../files/picture/Flower5.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/Flower6.jpg" 
+        src = "../files/picture/Flower6.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/Flower7.jpg" 
+        src = "../files/picture/Flower7.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/Flower8.jpg" 
+        src = "../files/picture/Flower8.jpg" 
         width = "24%">
     <div style = "
         color: orange;
