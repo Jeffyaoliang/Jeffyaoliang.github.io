@@ -55,7 +55,7 @@ author_profile: true
     - 题目：深度强化学习的定制硬件 
     - 导师：[Ameer Abehadi 助理教授](https://www.ece.mcmaster.ca/~ameer/ "Prof. Ameer Abehadi"){:target="_blank"} 
     - <details> <summary>摘要（点击展开）</summary> 本研究探讨了强化学习（RL）特定领域架构的发展，重点介绍了在专用硬件上实施强化学习的进展和挑战。随着强化学习算法日益复杂和计算密集，定制硬件解决方案为提高性能、能效和可扩展性提供了大有可为的途径。我们回顾了为加速 RL 算法而设计的不同架构，以及在物联网应用、硬件预取和处理器等不同领域的主要贡献。以前的工作主要集中在 FPGA 或 GPU 实现上，缺乏对各种 RL 算法和配置（尤其是现代算法和配置）进行广泛的性能比较。此外，这些研究还缺乏关于在 FPGA 设计中集成 CNN 和 RNN 等高级神经网络层的详细讨论。我们的调查报告通过对 FPGA 和 GPU 实现进行全面比较，强调细粒度并行性、片上内存使用以及与基于软件环境的集成，弥补了这些不足。此外，我们还探讨了定制硬件上的近内存计算和最先进的 DRL 算法。最后，我们提出了未来的研究方向，包括在 FPGA 设计中集成先进的神经网络层，以及探索近内存计算，以进一步增强定制硬件上的 RL 功能。</details>
-    - 成果：[PPT](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx "大研答辩PPT"){:target="_blank"} 
+    - 成果：[PPT](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx.pdf "大研答辩PPT"){:target="_blank"} 
 - 2022年12月 ~ 2023年6月于中国科大：本科毕业论文 
     - 题目：p-Laplace 方程的间断有限元方法 
     - 导师：[徐岩 教授](https://faculty.ustc.edu.cn/yxu/zh_CN/index.htm "徐岩教授的个人主页"){:target="_blank"} 
