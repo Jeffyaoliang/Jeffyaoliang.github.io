@@ -60,7 +60,23 @@ author_profile: true
     - 题目：中国科大Robogame2023机器人大赛竞技组 
     - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"} 
     - <details> <summary>摘要（点击展开）</summary>我和队友们一起制作了一个机器人。我负责核心供电模块和气泵系统的操作和维护，并协助进行参数调整。我们的机器人可以独立识别、抓取不同颜色的矿石，并及时运送到指定区域。我们从 39 个参赛队中脱颖而出，荣获二等奖。</details>
-    - 成果：[项目代码](https://gitee.com/langlang02/miner-craft-robogame2023 "项目代码"){:target="_blank"} 
+    - 成果：[项目代码](https://gitee.com/langlang02/miner-craft-robogame2023 "项目代码"){:target="_blank"}|<div style="display: flex; justify-content: center; gap: 1em;">
+    <iframe src="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/preview" 
+            width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
+    </iframe>
+    
+    <iframe src="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/preview" 
+            width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
+    </iframe>
+</div>
+
+<figure>
+    <img src="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+         alt="My great teammates and me(from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot)">
+    <figcaption>
+        Miner Craft Team: my great teammates and me (from left to right: Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot) <br /> 2023.10.10 @ Innovative Center
+    </figcaption>
+</figure> 
 - 2022年10月 ~ 2023年7月于中国科大：第十八届全国大学生智能汽车竞赛
     - 题目：安徽赛区电能接力组 & 东部赛区智能视觉组
     - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"}
