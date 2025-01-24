@@ -58,9 +58,9 @@ author_profile: true
     - 成果：[PPT](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx "大研答辩PPT"){:target="_blank"} 
 - 2023年5月 ~ 2023年10月于中国科大：Robogame 
     - 题目：中国科大Robogame2023机器人大赛竞技组 
-    - 导师：[叶回春 教授](https://faculty.ustc.edu.cn/yxu/zh_CN/index.htm "叶回春教授的个人主页"){:target="_blank"} 
-    - <details> <summary>摘要（点击展开）</summary>本课题研究了 p-Laplace 方程的局部间断有限元（LDG）方法。我们把空间离散得到的问题重写成一个等价的凸优化问题，并使用预条件梯度下降方法求解。我们首次将一种能提供 hk-无关的收敛速度的加权预条件子应用在了 LDG 框架中。对于多项式阶数 k ≥ 1，我们严格证明了我们的数值格式的可解性，并给出了一种依赖于网格的能量范数下的先验误差估计。我们的误差估计过程是在一种与现有结果不同且不等价的范数下进行的。在假设了光滑解的前提下，对于高阶多项式，我们的估计显示出了误差高阶收敛的特性。我们的数值结果体现出了我们所预期的迭代收敛速度。我们观察到了与线性情形相类似的，梯度变量误差的最佳收敛速度。同时，当 1 < p ≤ 2 时，在我们的算例中，原始变量的误差可以达到最优收敛速度。</details>
-    - 成果：[arXiv 预印本](https://arxiv.org/abs/2311.09119 "arXiv 预印本"){:target="_blank"} 
+    - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"} 
+    - <details> <summary>摘要（点击展开）</summary>我和队友们一起制作了一个机器人。我负责核心供电模块和气泵系统的操作和维护，并协助进行参数调整。我们的机器人可以独立识别、抓取不同颜色的矿石，并及时运送到指定区域。我们从 39 个参赛队中脱颖而出，荣获二等奖。</details>
+    - 成果：[项目代码](https://gitee.com/langlang02/miner-craft-robogame2023 "项目代码"){:target="_blank"} 
 
 
 # 教学经历
