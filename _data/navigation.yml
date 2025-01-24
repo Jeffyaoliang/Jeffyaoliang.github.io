@@ -31,6 +31,8 @@ main:
   
   #- title: "CV"
   # url: /cv/
+  - title: "中文"
+    url: /zh_cn/
     
  # - title: "Guide"
  #  url: /markdown/
