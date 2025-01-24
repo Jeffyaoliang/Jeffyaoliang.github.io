@@ -83,11 +83,6 @@ author_profile: true
 [东部赛区现场](../files/picture/East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology.jpg "东部赛区现场"){:target="_blank"}
 
 
-# 报告展出
-
-- 2024年7月：2024国际基础科学大会 [海报](../files/poster/Yue_Wu_ICBS2024.pdf "ICBS2024海报"){:target="_blank"}展出，中国北京 
-
-
 # 专业技能
 
 - 编程语言：C/C++, Matlab, Python, LaTeX,,Java, R, Verilog 
@@ -119,13 +114,11 @@ author_profile: true
 # 地址
 
 <address>
-Yue Wu <br />
-Division of Applied Mathematics <br />
-Brown University <br />
-Box F <br />
-182 George Street <br />
-Providence, RI 02912-9106 <br />
-United States 
+Yaoliang Bian <br />
+Division of Computer Science <br />
+Gaoxin Campus of University of Science and Technology of China<br />
+Hefei, Anhui 230031 <br />
+China 
 </address>
 
 ---
