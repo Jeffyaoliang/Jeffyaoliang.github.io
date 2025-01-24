@@ -14,7 +14,7 @@ author_profile: true
 
 英文简历：点击[此处](../files/cv.pdf "卞耀亮的简历"){:target="_blank"} 
 
-联系方式：[yue_wu3@brown.edu](mailto:yue_wu3@brown.edu "向该邮箱发送邮件") 
+联系方式：[bianyaoliang@mail.ustc.edu.cn](mailto:bianyaoliang@mail.ustc.edu.cn "向该邮箱发送邮件") 
 
 
 # 教育背景
