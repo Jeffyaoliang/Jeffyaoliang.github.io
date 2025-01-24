@@ -61,17 +61,17 @@ author_profile: true
     - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"} 
     - <details> <summary>摘要（点击展开）</summary>我和队友们一起制作了一个机器人。我负责核心供电模块和气泵系统的操作和维护，并协助进行参数调整。我们的机器人可以独立识别、抓取不同颜色的矿石，并及时运送到指定区域。我们从 39 个参赛队中脱颖而出，荣获二等奖。</details>
     - <div style="display: flex; align-items: center; gap: 1em;">
-  <!-- 项目代码链接 -->
-    成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" target="_blank" title="项目代码">项目代码</a>
+        <!-- 项目代码链接 -->
+        成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" target="_blank" title="项目代码">项目代码</a>
   
-  <!-- 视频预览链接 -->
-    <a href="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/view" target="_blank" title="视频 1">视频 1</a> |
-    <a href="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/view" target="_blank" title="视频 2">视频 2</a>
+        <!-- 视频预览链接 -->
+        <a href="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/view" target="_blank" title="视频 1">视频 1</a> |
+        <a href="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/view" target="_blank" title="视频 2">视频 2</a>
   
-  <!-- 图片链接 -->
-    <a href="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
-       target="_blank" title="队伍图片">队伍图片</a>
-</div>
+        <!-- 图片链接 -->
+        <a href="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+          target="_blank" title="队伍图片">队伍图片</a>
+     </div>
 
 - 2022年10月 ~ 2023年7月于中国科大：第十八届全国大学生智能汽车竞赛
     - 题目：安徽赛区电能接力组 & 东部赛区智能视觉组
