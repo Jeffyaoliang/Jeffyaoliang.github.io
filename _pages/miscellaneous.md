@@ -69,7 +69,7 @@ redirect_from:
         display: inline-block;
         color: #999;
         padding: 2px;">
-        my hometown Wuxi, the pearl of the Taihu Lake, a city featuring both modernity and traditional Chinese culture in the Yangtze Delta (photos taken by myself) 
+        Flowers in the <a href = "https://www.butchartgardens.com/">Butchart Gadrens</a>, Brentwood Bay, BC V8M 1A6, Canada, 08/14/2024 (photos taken by myself) 
     </div>
     <p> </p>
 </center>
