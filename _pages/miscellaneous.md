@@ -14,8 +14,7 @@ redirect_from:
 # 💾Links
 
 - USTC: [en.ustc.edu.cn](https://en.ustc.edu.cn){:target="_blank"} 
-- SGY, USTC: [en.scgy.ustc.edu.cn](https://en.scgy.ustc.edu.cn){:target="_blank"} 
-- Math, USTC: [math.ustc.edu.cn](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="_blank"} 
+- ECE, USTC: [en.sist.ustc.edu.cn](https://en.sist.ustc.edu.cn/2011/0520/c4923a44383/page.psp){:target="_blank"} 
 - LibGen: [libgen.gs](https://libgen.gs){:target="_blank"} 
 - iCourse Club, USTC: [icourse.club](https://icourse.club){:target="_blank"} 
 - Intel OneAPI Toolkits: [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html){:target="_blank"} 
