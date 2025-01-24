@@ -24,9 +24,9 @@ author_profile: true
 - 2019年9月 ~ 2022年6月：安徽省霍邱县第一中学 
 
 
-# 预印本
-
-- **Yue Wu** and Yan Xu, A high-order local discontinuous Galerkin method for the \\(p\\)-Laplace equation, *Beijing Journal of Pure and Applied Mathematics*, to appear. [arXiv:2311.09119](https://arxiv.org/abs/2311.09119 "arXiv link"){:target="_blank"}. 
+# 出版物
+------
+期待2025我的处子作！ 
 
 
 # 获奖情况
