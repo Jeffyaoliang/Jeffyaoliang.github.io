@@ -65,10 +65,10 @@ author_profile: true
     - 题目：安徽赛区电能接力组 & 东部赛区智能视觉组
     - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"}
     - <details> <summary>摘要（点击展开）</summary>我和队友陈卫星、张新远、牛博轩组成了“虾头柯南队”一起参加了安徽赛区电能接力组的比赛。<p>参赛组别：电能接力组同时具有比赛难度和实际使用价值,我们试图通过设计解决一个现实中可能发生的场景：使用自带电池的救援车，通过其传感器与程序自行经过各种障碍后救援电源耗尽的被救车。路上有各种地形包括上下坡、拐弯、十字路口、环岛、路障、车库等等。其中的难点包括双车通信、进出环岛、上下坡的速度控制等。</p><p>车模组成介绍：我们将任务主要分为软件和硬件相关的部分。两者既有重叠又有特色。软件相关的部分涉及通过编程实现传感器与驱动设备的调用与联动，主要包括调用主板、核心板、驱动板这些电路模块，以及用程序驱动电机、舵机、摄像头这些外部设备。而硬件部分则是构建小车的基础，包括电路板（PCB）的设计，车模框架的搭建，以及外设的安装、维修等。在小组分工合作中，硬件组的同学保护好车模的“外骨骼”、安装好“眼睛”（摄像头）和“耳朵”（用于通信的串口），以及“四肢”（四轮），软件组的同学则利用编程让车车“耳聪目明”、反应敏捷、健步如飞。</p> <p>负责部分：我负责电能接力组救援车和被救援车核心电路板的 PCB 设计。我和陈卫星还为参加东部赛区智能视觉组比赛的上海交通大学的“鸭子真好吃队”的备赛提供了帮助。</p><p>备赛历程分享：作为一个由三个大一同学两个大二同学组成的队伍，如何兼顾学业任务？怎么分工？怎么沟通？具体的技术任务怎么实现？以前大家都没有经验，一切都是一片空白。刚刚开始的时候，我们也曾手足无措，迷茫徘徊，甚至队伍成员都经过几次调整。但是通过慢慢磨合，在学长们的帮助下，队员们的一起努力下，以及学校的大力支持下，我们一点一点成长起来，平衡好了学业与兴趣，对参加比赛由流程到技术上都有了更多的经验，学会了如何对一个位置的问题进行分析、拆解，更重要的是，队友们成了经常一起打球聊天的好朋友。虽然最后没有获得一个超出估计的成绩，但是我们都感觉在一起调车的感觉真的很棒，我们学习了很多，这些日子也成为我们大学生活中一个难忘的时刻。</p></details>
-    - 成果：[队伍介绍](../files/picture/Xia_Tou_Ke_Nan_Team's_introduction_&_car.jpg "队伍介绍"){:target="_blank"}  
-         - [电能接力组](../files/picture/Xia_Tou_Ke_Nan_Team's_car.jpg "电能接力组"){:target="_blank"}  
-         - [智能视觉组](../files/picture/Duck_Yummy_Team's_car.jpg "智能视觉组"){:target="_blank"}  
-         - [东部赛区现场](../files/picture/East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology.jpg "东部赛区现场"){:target="_blank"}  
+    - 成果：[队伍介绍](../files/picture/Xia_Tou_Ke_Nan_Team's_introduction_&_car.jpg "队伍介绍"){:target="_blank"}| 
+           [电能接力组](../files/picture/Xia_Tou_Ke_Nan_Team's_car.jpg "电能接力组"){:target="_blank"}|  
+           [智能视觉组](../files/picture/Duck_Yummy_Team's_car.jpg "智能视觉组"){:target="_blank"}|  
+           [东部赛区现场](../files/picture/East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology.jpg "东部赛区现场"){:target="_blank"}  
 
  
 
