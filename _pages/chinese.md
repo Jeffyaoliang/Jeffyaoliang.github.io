@@ -61,7 +61,11 @@ author_profile: true
     - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"} 
     - <details> <summary>摘要（点击展开）</summary>我和队友们一起制作了一个机器人。我负责核心供电模块和气泵系统的操作和维护，并协助进行参数调整。我们的机器人可以独立识别、抓取不同颜色的矿石，并及时运送到指定区域。我们从 39 个参赛队中脱颖而出，荣获二等奖。</details>
     - 成果：[项目代码](https://gitee.com/langlang02/miner-craft-robogame2023 "项目代码"){:target="_blank"} 
-
+- 2022年10月 ~ 2023年7月于中国科大：第十八届全国大学生智能汽车竞赛
+    - 题目：安徽赛区电能接力组 & 东部赛区智能视觉组
+    - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"}
+    - <details> <summary>摘要（点击展开）</summary>我和队友陈卫星、张新远、牛博轩组成了“虾头柯南队”一起参加了安徽赛区电能接力组的比赛。我负责电能接力组救援车和被救援车核心电路板的 PCB 设计。我和陈卫星还为参加东部赛区智能视觉组比赛的上海交通大学的“鸭子真好吃队”的备赛提供了帮助。</details> 
+    - 成果：[车模展示](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx "车模展示"){:target="_blank"}
 
 # 教学经历
 
