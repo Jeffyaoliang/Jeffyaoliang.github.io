@@ -69,6 +69,10 @@ author_profile: true
   ![电能接力组](../files/picture/Xia_Tou_Ke_Nan_Team's_car.jpg "电能接力组"){:target="_blank"} 
   ![车模图片 2](../files/picture/car_model_2.jpg "车模图片 2") {:target="_blank"}  
   ![车模图片 3](../files/picture/car_model_3.jpg "车模图片 3"){:target="_blank"} 
+    - 成果：[队伍介绍](../files/picture/Xia_Tou_Ke_Nan_Team's_introduction_&_car.jpg "队伍介绍"){:target="_blank"}  
+         - [电能接力组](../files/picture/Xia_Tou_Ke_Nan_Team's_car.jpg "电能接力组"){:target="_blank"}  
+         - [车模图片 2](../files/picture/car_model_2.jpg "车模图片 2"){:target="_blank"}  
+         - [车模图片 3](../files/picture/car_model_3.jpg "车模图片 3"){:target="_blank"}  
 
  
 
