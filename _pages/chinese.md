@@ -71,7 +71,7 @@ author_profile: true
         <!-- 图片链接 -->
         <a href="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
           target="_blank" title="队伍图片">队伍图片</a>
-     </div>
+       </div>
 
 - 2022年10月 ~ 2023年7月于中国科大：第十八届全国大学生智能汽车竞赛
     - 题目：安徽赛区电能接力组 & 东部赛区智能视觉组
