@@ -76,4 +76,4 @@ redirect_from:
 
 ---
 
-<a href="https://my.flightradar24.com/pilotjohnwu"><img src="https://banners-my.flightradar24.com/pilotjohnwu.png" alt="My Flightdiary.net profile" /></a>
+<a href="https://my.flightradar24.com/yaoliangbian"><img src="https://banners-my.flightradar24.com/yaoliangbian.png" alt="My Flightdiary.net profile" /></a>
