@@ -1,6 +1,6 @@
 ---
 # layout: archive # too wide
-title: "吴越的个人主页"
+title: "卞耀亮的个人主页"
 permalink: /zh_cn/
 author_profile: true
 ---
@@ -10,9 +10,9 @@ author_profile: true
 
 # 个人简介
 
-**吴越**，男，无锡人。现为布朗大学应用数学系的博士生，于2023年秋季入学，导师是[舒其望 教授](https://www.dam.brown.edu/people/shu/ "舒其望教授的个人主页"){:target="_blank"}。目前的研究方向是数值分析与科学计算，主要内容为偏微分方程的高阶数值方法（有限元、间断有限元、谱元法、有限差分等）。
+**卞耀亮**，男，安徽六安人。现为中国科学技术大学电子科学与技术系的大三学生，于2022年秋季入学，导师是[龚伟 教授](https://ubiot.ustc.edu.cn/weigong "舒其望教授的个人主页"){:target="_blank"}。目前的研究方向是无线通信和移动计算，主要内容为蓝牙反向散射。
 
-英文简历：点击[此处](../files/cv.pdf "吴越的简历"){:target="_blank"} 
+英文简历：点击[此处](../files/cv.pdf "卞耀亮的简历"){:target="_blank"} 
 
 联系方式：[yue_wu3@brown.edu](mailto:yue_wu3@brown.edu "向该邮箱发送邮件") 
 
