@@ -19,11 +19,9 @@ author_profile: true
 
 # 教育背景
 
-- 2023年9月 ~ 现今：[布朗大学](https://www.brown.edu/ "布朗大学官网"){:target="_blank"}，[应用数学系](https://appliedmath.brown.edu/ "布朗大学应用数学系主页"){:target="_blank"} 
-    - 博士研究生 (导师：[舒其望 教授](https://www.dam.brown.edu/people/shu/ "舒其望教授的个人主页"){:target="_blank"}) 
-- 2019年9月 ~ 2023年6月：[中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"}，[少年班学院](https://sgy.ustc.edu.cn/ "中国科学技术大学少年班学院"){:target="_blank"} 
-    - 信息与计算科学 理学学士 
-- 2017年9月 ~ 2019年6月：无锡市第一中学 
+- 2019年9月 ~ 现今：[中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"}，[电子科学与技术系](https://en.sist.ustc.edu.cn/2011/0520/c4923a44383/page.psp "中国科学技术大学电子科学与技术系"){:target="_blank"} 
+    - 电子科学与技术 工学学士 
+- 2019年9月 ~ 2022年6月：安徽省霍邱县第一中学 
 
 
 # 预印本
