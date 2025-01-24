@@ -82,13 +82,6 @@ author_profile: true
 [智能视觉组](../files/picture/Duck_Yummy_Team's_car.jpg "智能视觉组"){:target="_blank"} | 
 [东部赛区现场](../files/picture/East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology.jpg "东部赛区现场"){:target="_blank"}
 
- 
-
-# 教学经历
-
-- 2024年秋学期于布朗大学：运筹学：确定性模型 助教 （授课教师：[Amalia V. CULIUC](https://appliedmath.brown.edu/people/amalia-culiuc "Amalia V. CULIUC 的个人主页"){:target="_blank"}）
-- 2022年春学期于中国科大：计算方法B 助教 （授课教师：[陈景润 教授](https://faculty.ustc.edu.cn/chenjingrun/en/index/601834/list/index.htm "陈景润教授的个人主页"){:target="_blank"}）
-
 
 # 报告展出
 
@@ -97,8 +90,9 @@ author_profile: true
 
 # 专业技能
 
-- 编程语言：C/C++, Matlab, Fortran 95/2003, Python, LaTeX 
-- 并行计算：MPI, OpenMP, Coarray Fortran 
+- 编程语言：C/C++, Matlab, Python, LaTeX,,Java, R, Verilog 
+- 硬件部分：nRF52840 SoC, TI CC2640R2F, TI CC3200, FPGA, STM32F103, Raspberry Pi, ATmega8A
+- 软件部分：Mathematica, MATLAB, Altium Designer, Microsoft Excel, Origin, Wireshark, Vivado, STM32CubeMX, SmartRF Studio 7 
 - 工作语言：普通话，英语 
 
 
