@@ -17,53 +17,51 @@ redirect_from:
 - ECE, USTC: [en.sist.ustc.edu.cn](https://en.sist.ustc.edu.cn/2011/0520/c4923a44383/page.psp){:target="_blank"} 
 - iCourse Club, USTC: [icourse.club](https://icourse.club){:target="_blank"} 
 - AcademicPages (template for this website): [academicpages](https://github.com/academicpages/){:target="_blank"} 
-- VSCode portable: [VSCode portable](https://code.visualstudio.com/docs/editor/portable){:target="_blank"} 
-- [How to use `ifort` + `IntelMPI`/`coarray` on Windows or Linux clusters](https://blog.csdn.net/PilotJohnWu/article/details/121064266){:target="_blank"} 
 
 
-# 📷Photos of My Hometown
+# 📷Photos of Flowers
 
 <center>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/from-hill-hui.jpg" 
+        src = "../files/pictures/Flower1.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/nanchang-st.jpg" 
+        src = "../files/pictures/Flower2.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/bridge-on-river.jpg" 
+        src = "../files/pictures/Flower3.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/bird-on-taihu.jpg" 
+        src = "../files/pictures/Flower4.jpg" 
         width = "24%">
     <br />
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/lake-li-1.jpg" 
+        src = "../files/pictures/Flower5.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/lake-li-2.jpg" 
+        src = "../files/pictures/Flower6.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/turtle-head-peninsula.jpg" 
+        src = "../files/pictures/Flower7.jpg" 
         width = "24%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/pictures/yangtze-river.jpg" 
+        src = "../files/pictures/Flower8.jpg" 
         width = "24%">
     <div style = "
         color: orange;
