@@ -15,7 +15,6 @@ redirect_from:
 
 - USTC: [en.ustc.edu.cn](https://en.ustc.edu.cn){:target="_blank"} 
 - ECE, USTC: [en.sist.ustc.edu.cn](https://en.sist.ustc.edu.cn/2011/0520/c4923a44383/page.psp){:target="_blank"} 
-- LibGen: [libgen.gs](https://libgen.gs){:target="_blank"} 
 - iCourse Club, USTC: [icourse.club](https://icourse.club){:target="_blank"} 
 - Intel OneAPI Toolkits: [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html){:target="_blank"} 
 - S.-T. Yau College Student Mathematics Contest: [Yau-Contest](http://yau-contest.com/en){:target="_blank"} 
