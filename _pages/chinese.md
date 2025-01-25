@@ -106,16 +106,8 @@ author_profile: true
 - 2024年7月 ~ 2024年9月：加拿大麦克马斯特大学（McMaster University）暑期研究 
 - 2024年1月 ~ 2024年2月：德克萨斯大学奥斯汀分校（University of Texas at Austin）软件工程寒假课程 
 - 2023年7月 ~ 2023年8月：牛津大学奥利尔学院（Oriel College, Oxford）暑期课程 
-- 2023年1月 ~ 2023年2月：华沙大学（Warsaw University）IT寒假课程 
+- 2023年1月 ~ 2023年2月：华沙大学（Warsaw University）IT寒假课程
 
-
-# 文件分享
-
-- 中国科大 日本社会文化解读课程论文 [文件](../files/Interpretation of Japanese society and culture.pdf "中国科大 日本社会文化解读课程论文"){:target="_blank"} 
-- 中国科大 微分方程I（现微分方程引论）课程笔记 [文件](../files/note1.pdf "中国科大 微分方程I（现微分方程引论）课程笔记"){:target="_blank"} 
-- 中国科大 有限元方法 课程作业 [HW1](../files/FEM/HW1.pdf "中国科大 有限元方法 HW1"){:target="_blank"} (一维线性单元)，[HW2](../files/FEM/HW2.pdf "中国科大 有限元方法 HW2"){:target="_blank"} (一维二次单元)，[HW3](../files/FEM/HW3.pdf "中国科大 有限元方法 HW3"){:target="_blank"} (一维纯Neumann边界)
-
----
 
 # 地址
 
