@@ -63,7 +63,7 @@ Supervisor: [Prof. Huichun Ye](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/
 Final: 10/22/2023 
 
 I built a robot with my teammates in USTC’s 2023 Robogame. I was responsible for the operation and maintenance of the core power supply module and the air pump system, as well as assisting with parameter tuning. Our Robot can independently identify, grab ores of different colors and transport them to the designated area in time.
-We won the 2nd prize among 39 teams. (Project code: [here](https://gitee.com/langlang02/miner-craft-robogame2023 "gitee link"){:target="_blank"} ) 
+We won the 2nd prize among 39 teams. (Project code: [here](https://github.com/Jeffyaoliang/Robogame2023Miner-Craft-Team "github link"){:target="_blank"} ) 
 
 <div style="display: flex; justify-content: center; gap: 1em;">
     <iframe src="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/preview" 
