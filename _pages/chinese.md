@@ -62,7 +62,7 @@ author_profile: true
     - <details> <summary>摘要（点击展开）</summary>我和队友们一起制作了一个机器人。我负责核心供电模块和气泵系统的操作和维护，并协助进行参数调整。我们的机器人可以独立识别、抓取不同颜色的矿石，并及时运送到指定区域。我们从 39 个参赛队中脱颖而出，荣获二等奖。</details>
     - <div style="display: inline-flex; align-items: center; gap: 0.2em; white-space: nowrap;">
         <!-- 项目代码链接 -->
-        成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" title="项目代码">项目代码</a>|
+        成果：<a href="https://github.com/Jeffyaoliang/Robogame2023Miner-Craft-Team" title="项目代码">项目代码</a>|
   
         <!-- 视频预览链接 -->
         <a href="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/view" title="视频 1">视频 1</a>|
