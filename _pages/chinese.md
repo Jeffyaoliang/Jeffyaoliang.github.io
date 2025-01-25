@@ -74,11 +74,11 @@ author_profile: true
        </div>
     - <div style="display: inline-flex; align-items: center; gap: 0.5em; white-space: nowrap;">
         <!-- 项目代码链接 -->
-        成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" title="项目代码">项目代码</a>
+        成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" title="项目代码">项目代码</a>|
   
         <!-- 视频预览链接 -->
-        <a href="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/view" title="视频 1">视频 1</a>
-        <a href="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/view" title="视频 2">视频 2</a>
+        <a href="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/view" title="视频 1">视频 1</a>|
+        <a href="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/view" title="视频 2">视频 2</a>|
   
         <!-- 图片链接 -->
         <a href="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
