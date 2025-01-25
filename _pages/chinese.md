@@ -50,7 +50,7 @@ author_profile: true
     - 题目：基于多频载波的通用蓝牙反向散射系统设计 
     - 导师：[龚伟 教授](https://ubiot.ustc.edu.cn/weigong "龚伟教授的个人主页"){:target="_blank"} 
     - <details> <summary>摘要（点击展开）</summary> 现有的反向散射技术在商品无线电（如WiFi和蓝牙）上的兼容性有限，尤其是在处理多频载波时存在低利用率、不确定延迟和连接限制等问题。DanBlue通过引入边缘代理和宽带信道跳变机制，解决了这些问题。然而，目前DanBlue仅支持单一载波源，未来需要研究如何复用多个载波源，特别是当这些载波源具有不同跳跃序列时；载波到标签的距离与标签的灵敏度相关，未来可以通过提高标签的灵敏度或采用低噪声放大器来增加下行距离；为了使标签能够利用环境中的BLE信号，DanBlue引入了额外的边缘设备和宽时钟，这增加了成本，未来可以通过集成到现有设备中来降低这一成本；目前的系统设计主要用于反向散射信标，未来需要开发基于宽数据通道的应用协议，如BLE配对等，以进一步提升系统的功能和安全性。</details>
-    - 成果：敬请期待！ 
+    - 成果：敬请期待！<a href="https://docs.google.com/presentation/d/16_wRCpAjpve8BeWFTJBA8rOXX7YaGeI1/view" target="_blank" title="开题答辩PPT">开题答辩PPT</a>
 - 2024年7月 ~ 2024年9月于加拿大麦克马斯特大学（McMaster University）：线下暑期研究 
     - 题目：深度强化学习的定制硬件 
     - 导师：[Ameer Abehadi 助理教授](https://www.ece.mcmaster.ca/~ameer/ "Prof. Ameer Abehadi"){:target="_blank"} 
