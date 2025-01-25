@@ -85,19 +85,9 @@ author_profile: true
     - 题目：研究磁晶各向异性常数K、几何形状对skyrmion运动的影响
     - 导师：[李鹏 教授](https://faculty.ustc.edu.cn/lipeng18/en "李鹏教授的个人主页"){:target="_blank"}
     - <details> <summary>摘要（点击展开）</summary> 本次实验通过学习了解 Skyrmion 的物理性质和结构特点，并通过微磁学模拟软件面向对象的微磁学模拟框架软件，研究不同磁晶各向异性常数（PMA）对电流产生 Skyrmion 大小的影响以及二维 PMA 梯度场对 Skyrmion 驱动作用的影响。最终通过程序模拟、图像分析等方法得出相关积分-泄露-点火模型的结论，同时对模拟过程进行了总结、反思和改进。</details>
-    - 成果：[报告](https://drive.google.com/file/d/1mF824PXULRFDKP2KEecxfiXSzwnpKZhE/preview){:target="_blank"}. [演示]
-    - <div style="display: flex; align-items: center; gap: 1em;">
-        <!-- 报告链接 -->
-        成果：[<a href="https://drive.google.com/file/d/1mF824PXULRFDKP2KEecxfiXSzwnpKZhE/preview" target="_blank">报告</a>]
-
-        <!-- 演示视频 -->
-      <div style="display: inline-block; text-align: center;">
-        <iframe src="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview" 
-            width="320" height="240" allow="autoplay; fullscreen" allowfullscreen>
-        </iframe>
-      <div style="font-size: 12px; color: #555; margin-top: 5px;">演示: Skyrmion Motion</div>
-      </div>
-     </div>
+    - 成果：[报告](https://drive.google.com/file/d/1mF824PXULRFDKP2KEecxfiXSzwnpKZhE/preview){:target="_blank"}. [演示]<a href="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview"></a>
+       
+   
 
 <figure style="display: flex; justify-content: center; gap: 1em;">
     <iframe src="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview" 
