@@ -12,7 +12,7 @@ author_profile: true
 
 **卞耀亮**，男，安徽六安人。现为中国科学技术大学电子科学与技术系的大三学生，于2022年秋季入学，导师是[龚伟 教授](https://ubiot.ustc.edu.cn/weigong "龚伟教授的个人主页"){:target="_blank"}。目前的研究方向是无线通信和移动计算，主要内容为蓝牙反向散射。
 
-英文简历：点击[此处](../files/cv.pdf "卞耀亮的简历"){:target="_blank"} 
+英文简历：点击[此处](../files/CV_Yaoliang Bian_newest.pdf "卞耀亮的简历"){:target="_blank"} 
 
 联系方式：[bianyaoliang@mail.ustc.edu.cn](mailto:bianyaoliang@mail.ustc.edu.cn "向该邮箱发送邮件") 
 
