@@ -81,6 +81,11 @@ author_profile: true
 [智能视觉组](../files/picture/Duck_Yummy_Team's_car.jpg "智能视觉组"){:target="_blank"} | 
 [东部赛区现场](../files/picture/East Region Intelligent Vision Group Competition Site at Nanjing University of Information Science & Technology.jpg "东部赛区现场"){:target="_blank"}
 
+- 2022年9月 ~ 2023年6月于中国科大：科学与社会研讨课
+    - 题目：研究磁晶各向异性常数K、几何形状对skyrmion运动的影响
+    - 导师：[李鹏 教授](https://faculty.ustc.edu.cn/lipeng18/en "李鹏教授的个人主页"){:target="_blank"}
+    - <details> <summary>摘要（点击展开）</summary> 本次实验通过学习了解 Skyrmion 的物理性质和结构特点，并通过微磁学模拟软件面向对象的微磁学模拟框架软件，研究不同磁晶各向异性常数（PMA）对电流产生 Skyrmion 大小的影响以及二维 PMA 梯度场对 Skyrmion 驱动作用的影响。最终通过程序模拟、图像分析等方法得出相关积分-泄露-点火模型的结论，同时对模拟过程进行了总结、反思和改进。</details>
+    - 成果：[报告](../files/undergraduate-research-program/Custom Hardware for Deep Reinforcement Learning.pptx "大研答辩PPT"){:target="_blank"} 
 
 # 专业技能
 
