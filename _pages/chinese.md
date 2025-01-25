@@ -19,7 +19,7 @@ author_profile: true
 
 # 教育背景
 
-- 2019年9月 ~ 现今：[中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"}，[电子科学与技术系](https://en.sist.ustc.edu.cn/2011/0520/c4923a44383/page.psp "中国科学技术大学电子科学与技术系"){:target="_blank"} 
+- 2022年9月 ~ 现今：[中国科学技术大学](https://www.ustc.edu.cn/ "中国科学技术大学"){:target="_blank"}，[电子科学与技术系](https://en.sist.ustc.edu.cn/2011/0520/c4923a44383/page.psp "中国科学技术大学电子科学与技术系"){:target="_blank"} 
     - 电子科学与技术 工学学士 
 - 2019年9月 ~ 2022年6月：安徽省霍邱县第一中学 
 
