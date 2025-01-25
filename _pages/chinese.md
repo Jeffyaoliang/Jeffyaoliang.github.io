@@ -111,7 +111,7 @@ author_profile: true
 
 # 文件分享
 
-- 中国科大 日本社会文化解读课程 [文件](../files/calculus.pdf "中国科大 数学分析B2 课程笔记（含作业题和历年期末试题解答）"){:target="_blank"} 
+- 中国科大 日本社会文化解读课程论文 [文件](../files/Interpretation of Japanese society and culture.pdf "中国科大 日本社会文化解读课程论文"){:target="_blank"} 
 - 中国科大 微分方程I（现微分方程引论）课程笔记 [文件](../files/note1.pdf "中国科大 微分方程I（现微分方程引论）课程笔记"){:target="_blank"} 
 - 中国科大 有限元方法 课程作业 [HW1](../files/FEM/HW1.pdf "中国科大 有限元方法 HW1"){:target="_blank"} (一维线性单元)，[HW2](../files/FEM/HW2.pdf "中国科大 有限元方法 HW2"){:target="_blank"} (一维二次单元)，[HW3](../files/FEM/HW3.pdf "中国科大 有限元方法 HW3"){:target="_blank"} (一维纯Neumann边界)
 
