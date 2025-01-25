@@ -85,7 +85,19 @@ author_profile: true
     - 题目：研究磁晶各向异性常数K、几何形状对skyrmion运动的影响
     - 导师：[李鹏 教授](https://faculty.ustc.edu.cn/lipeng18/en "李鹏教授的个人主页"){:target="_blank"}
     - <details> <summary>摘要（点击展开）</summary> 本次实验通过学习了解 Skyrmion 的物理性质和结构特点，并通过微磁学模拟软件面向对象的微磁学模拟框架软件，研究不同磁晶各向异性常数（PMA）对电流产生 Skyrmion 大小的影响以及二维 PMA 梯度场对 Skyrmion 驱动作用的影响。最终通过程序模拟、图像分析等方法得出相关积分-泄露-点火模型的结论，同时对模拟过程进行了总结、反思和改进。</details>
-    - 成果：<a href="https://drive.google.com/file/d/1mF824PXULRFDKP2KEecxfiXSzwnpKZhE/preview" target="_blank">报告</a>|<a href="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview" target="_blank">演示</a>
+    - 成果：<a href="https://drive.google.com/file/d/1mF824PXULRFDKP2KEecxfiXSzwnpKZhE/preview" target="报告">报告</a>|<a href="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview" target="演示">演示</a>
+    - <div style="display: inline-flex; align-items: center; gap: 0.2em; white-space: nowrap;">
+        <!-- 项目代码链接 -->
+        成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" title="项目代码">项目代码</a>|
+  
+        <!-- 视频预览链接 -->
+        <a href="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/view" title="视频 1">视频 1</a>|
+        <a href="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/view" title="视频 2">视频 2</a>|
+  
+        <!-- 图片链接 -->
+        <a href="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+          target="_blank" title="队伍图片">队伍图片</a>
+        </div>
 
 # 专业技能
 
