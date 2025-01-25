@@ -92,16 +92,6 @@ author_profile: true
         <!-- 视频预览链接 -->
         <a href="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview" target="演示">演示</a>
       </div>
-  <figure>
-    <iframe src="https://drive.google.com/file/d/1bc4_YoC5T39uSQ55-v7Do-wv4eca3_2H/preview" 
-            width="640" height="480" allow="autoplay; fullscreen" allowfullscreen>
-    </iframe>
-    <figcaption>
-        <span lang="en">Demo: Effect of changing geometry on Skyrmion motion</span><br>
-        <span lang="zh">演示：改变几何形状对磁畴运动的影响</span>
-    </figcaption>
-</figure>
-
 
 # 专业技能
 
