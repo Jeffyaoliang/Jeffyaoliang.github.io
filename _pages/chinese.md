@@ -72,19 +72,18 @@ author_profile: true
         <a href="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
           target="_blank" title="队伍图片">队伍图片</a>
        </div>
-    - <div style="display: flex; align-items: center; gap: 0.5em;">
-  <!-- 项目代码链接 -->
-  成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" title="项目代码">项目代码</a> 
+    - <div style="display: inline-flex; align-items: center; gap: 0.5em; white-space: nowrap;">
+        <!-- 项目代码链接 -->
+        成果：<a href="https://gitee.com/langlang02/miner-craft-robogame2023" title="项目代码">项目代码</a>
   
-  <!-- 视频预览链接 -->
-  <a href="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/view" title="视频 1">视频 1</a> 
-  <a href="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/view" title="视频 2">视频 2</a> 
+        <!-- 视频预览链接 -->
+        <a href="https://drive.google.com/file/d/1X6Bf7go0nT6MjuTKoUvBnHb5hPmhsGH7/view" title="视频 1">视频 1</a>
+        <a href="https://drive.google.com/file/d/1F79y73cuPLEYJn3AgSGt17I_9ofuiMYJ/view" title="视频 2">视频 2</a>
   
-  <!-- 图片链接 -->
-  <a href="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
-     target="_blank" title="队伍图片">队伍图片</a>
-</div>
-
+        <!-- 图片链接 -->
+        <a href="../files/picture/2023.10.10. Innovative Center(Zhenglang Weng, Jiazhuo Liu, Yaoliang Bian, Taowei Liu, Yaxin Gong with our robot).jpg" 
+          target="_blank" title="队伍图片">队伍图片</a>
+        </div>
 - 2022年10月 ~ 2023年7月于中国科大：第十八届全国大学生智能汽车竞赛
     - 题目：安徽赛区电能接力组 & 东部赛区智能视觉组
     - 导师：[叶回春 教授](https://pmpi.ustc.edu.cn/2020/0425/c19781a419361/ "叶回春教授的个人主页"){:target="_blank"}
