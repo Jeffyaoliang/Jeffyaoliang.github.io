@@ -16,7 +16,7 @@ I'm a third year undergraduate student from [Department of Electronics Science a
 
 I am very fortunate to be advised by [Prof. Wei Gong](https://ubiot.ustc.edu.cn/weigong) of [Ubiquitous Battery-free Internet of Things Laboratory](https://ubiot.ustc.edu.cn/Home) from [School of Computer Science](https://en.cs.ustc.edu.cn/), University of Science and Technology of China. I was advised by [Prof. Ameer Abehedahi](https://www.ece.mcmaster.ca/~ameer/) from [Department of Electrical and Computer Engineering](https://www.eng.mcmaster.ca/ece/), McMaster University.
 
-You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yaoliang Bian's Curriculum Vitae](../files/CV_Yaoliang Bian_newest.pdf).
 
 [Email](mailto:bianyaoliang@mail.ustc.edu.cn) / [Github](https://jeffyaoliang.github.io/) / [Wechat](../images/wechat.jpg)
 ————————————————
